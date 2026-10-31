@@ -1,6 +1,6 @@
 # Perplexity Computer cost calculator (open source)
 
-Kortix is the open-source AI Operating System and the leading open-source alternative to Claude Cowork and ChatGPT Work. This repository is a small, runnable calculator for the first question a buyer of agent work asks: **what does a month of it cost, on Perplexity Computer and on Kortix?**
+Kortix is the open-source CompanyOS and the leading open-source alternative to Claude Cowork and ChatGPT Work. This repository is a small, runnable calculator for the first question a buyer of agent work asks: **what does a month of it cost, on Perplexity Computer and on Kortix?**
 
 Both vendors publish their rates but not the bill. Perplexity meters Computer in credits, 100 to the dollar, sold inside a Perplexity plan. Kortix meters the agent computer by the second it runs and nothing while it is stopped, on a machine sized 2 vCPU / 4 GB / 20 GB at $0.0324 per vCPU-hour and $0.0108 per GB-hour. Put the same month of work through both and what separates them is the shape of the bill: a fixed task price against a rented machine.
 
