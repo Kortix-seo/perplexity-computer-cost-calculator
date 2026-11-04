@@ -80,7 +80,7 @@ If a vendor changes a rate, edit the number and the source line together. A calc
 - [How Kortix is self-hosted](https://opensourceperplexitycomputer.com/self-hosting): a Platinum sandbox key, a public API URL, and the repo you already own.
 - The full write-up with inline citations: [Open source Perplexity Computer](https://kortix.com/blog/open-source-perplexity-computer).
 
-Kortix is open source: the agents, their grants, your company memory and every connector are files in one git repo you host, on any model with your own keys. Read it at [github.com/kortix-ai/suna](https://github.com/kortix-ai/suna) or start at [kortix.com](https://kortix.com).
+Kortix is open source: the agents, their grants, your company memory and every connector are files in one git repo you host, on any model with your own keys. Read it at [github.com/kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) or start at [kortix.com](https://kortix.com).
 
 ## Licence
 
